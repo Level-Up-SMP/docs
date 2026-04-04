@@ -2,8 +2,8 @@
 
 ## Requirements
 
-- [CurseForge App](https://www.curseforge.com/download/app) installed _(Standalone Preferred)_
-- Java 21 ([Eclipse Temurin](https://adoptium.net/temurin/releases/?version=21) _recommended_)
+* [CurseForge App](https://www.curseforge.com/download/app) installed _(Standalone Preferred)_
+* Java 21 ([Eclipse Temurin](https://adoptium.net/temurin/releases/?version=21) _recommended_)
 
 ---
 
@@ -44,6 +44,6 @@ Click **Play** and enjoy Level Up SMP!
 
 ## Notes
 
-- The JVM arguments above require **Java 21**. They will not work on older Java versions.
-- If you are on **macOS**, omit `-XX:+UseZGC -XX:+ZGenerational` as ZGC has known issues on macOS. Your arguments would just be `--add-modules=jdk.incubator.vector`
-- If you experience any issues, reach out in the Discord server.
+* The JVM arguments above require **Java 21**. They will not work on older Java versions.
+* If you are on **macOS**, omit `-XX:+UseZGC -XX:+ZGenerational` as ZGC has known issues on macOS. Your arguments would just be `--add-modules=jdk.incubator.vector`
+* If you experience any issues, reach out in the Discord server.

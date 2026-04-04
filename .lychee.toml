@@ -20,4 +20,4 @@ timeout = 20
 # Retry transient failures before marking a link as broken
 max_retries = 3
 
-exclude_mail = true
+include_mail = false
