@@ -1,4 +1,4 @@
-# Server Configuration
+# :notebook: Server Configuration
 
 Contained herein is the more detailed information of the server configuration. If the configuration is noted here it is either considered an important configuration item or is has been changed from it's default.
 

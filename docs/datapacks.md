@@ -1,4 +1,4 @@
-# Datapacks
+# :package: Datapacks
 
 All datapacks provided by [VanillaTweaks](https://vanillatweaks.net/picker/datapacks/)
 
@@ -24,7 +24,7 @@ Below are the datapacks installed on the server.
 
 Adds a unique book that allows you to alter the properties of armor stands in survival.
 
-[Turtorial Video](https://www.youtube.com/watch?v=nV9*_RacnoI)
+[Tutorial Video](https://www.youtube.com/watch?v=nV9-_RacnoI)
 
 ### Armored Elytra
 

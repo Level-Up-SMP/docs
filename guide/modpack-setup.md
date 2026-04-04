@@ -1,15 +1,15 @@
-# Modpack Setup Guide
+# ModPack Setup Guide
 
 ## Requirements
 
-- [CurseForge App](https://www.curseforge.com/download/app) installed
+- [CurseForge App](https://www.curseforge.com/download/app) installed _(Standalone Preferred)_
 - Java 21 ([Eclipse Temurin](https://adoptium.net/temurin/releases/?version=21) _recommended_)
 
 ---
 
-## Step 1 — Import the Modpack
+## Step 1 — Import the ModPack
 
-1. Download the **Level Up SMP** `.zip` file from the Discord server
+1. Download the [**Level Up SMP** `.zip` file](/modpacks/Level-Up-SMP-1.0.zip)
 2. Open the **CurseForge App**
 3. Click **My Modpacks** in the left sidebar
 4. Click the **Import** button in the top right

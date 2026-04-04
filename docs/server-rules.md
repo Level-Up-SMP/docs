@@ -1,8 +1,10 @@
-# Server Rules
+# :police_officer: Server Rules
 
 Level Up SMP is a casual, community-driven server built on trust, respect, and shared enjoyment of the world. Most of us know each other, but these rules exist to make sure everyone -- especially newcomers -- understands what kind of place this is.
 
 This is not just a Minecraft server. It is a shared world. Act accordingly.
+
+---
 
 ## 1. Respect the world and the work within it
 

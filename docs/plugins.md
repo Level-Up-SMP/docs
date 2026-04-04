@@ -1,4 +1,4 @@
-# Plugins
+# :electric_plug: Plugins
 
 ## Installed Plugins
 

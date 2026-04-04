@@ -1,0 +1,23 @@
+# Lychee link checker configuration
+# https://lychee.cli.rs/usage/config/
+
+# Exclude root-relative site paths (images, modpack downloads) — these are
+# valid for a rendered docs site but cannot be resolved by a file-system checker
+exclude = [
+  "^/assets/",
+  "^/modpacks/",
+  "^https://discord\\.gg/",
+  "^https://img\\.shields\\.io/discord/",
+]
+
+# Accept 429 (rate limited) as alive — Google Sheets and some other hosts
+# frequently rate-limit requests from GitHub Actions IP ranges
+accept = [200, 206, 429]
+
+# Increase timeout for slower external hosts (e.g. SpigotMC)
+timeout = 20
+
+# Retry transient failures before marking a link as broken
+max_retries = 3
+
+exclude_mail = true
