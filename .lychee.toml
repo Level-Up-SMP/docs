@@ -10,6 +10,7 @@ root_dir = "."
 exclude = [
   "^/assets/",
   "^/modpacks/",
+  "file://.*/(assets|modpacks)/",
   "^https://discord\\.gg/",
   "^https://img\\.shields\\.io/discord/",
   "^https://www\\.spigotmc\\.org/",
