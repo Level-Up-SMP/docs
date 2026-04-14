@@ -1,5 +1,11 @@
 # ModPack Setup Guide
 
+## Description
+
+This modpack is predominantly focused on performance with the added benefit of access to often used shaders and resources packs. The modpack does include some other social and QoL (Quality of Life) mods.
+
+---
+
 ## Requirements
 
 * [CurseForge App](https://www.curseforge.com/download/app) installed _(Standalone Preferred)_
@@ -9,7 +15,7 @@
 
 ## Step 1 — Import the ModPack
 
-1. Download the [**Level Up SMP** `.zip` file](/modpacks/Level-Up-SMP-1.0.zip)
+1. Download the [**Level Up SMP** `.zip` file](/modpacks/Level-Up-SMP-1.1.zip)
 2. Open the **CurseForge App**
 3. Click **My Modpacks** in the left sidebar
 4. Click the **Import** button in the top right
