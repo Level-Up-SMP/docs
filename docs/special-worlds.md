@@ -22,7 +22,7 @@ While we can't commit to _never_ resetting the creative world, it's our intentio
 
 ## Resource World
 
-The resource world exists solely to harvest resources from. There are no mobs of any kind, but environmental hazards like lava and fall damage are still very much present.
+The resource world exists solely to harvest resources from. It runs on a separate seed with standard world generation — mobs spawn and structures generate as normal.
 
 The world may be reset or reseeded from time to time depending on community need. This means that anything you leave in this world **WILL** be lost if you don't remove it. Advanced notice will be given prior to reset.
 
