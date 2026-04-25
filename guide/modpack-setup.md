@@ -15,7 +15,7 @@ This modpack is predominantly focused on performance with the added benefit of a
 
 ## Step 1 — Import the ModPack
 
-1. Download the [**Level Up SMP** `.zip` file](/modpacks/Level-Up-SMP-1.1.zip)
+1. Download the [**Level Up SMP** `.zip` file](https://github.com/Level-Up-SMP/docs/raw/refs/heads/main/modpacks/Level-Up-SMP-1.1.zip)
 2. Open the **CurseForge App**
 3. Click **My Modpacks** in the left sidebar
 4. Click the **Import** button in the top right

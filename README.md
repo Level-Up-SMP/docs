@@ -10,6 +10,7 @@ You can find the list of our documentation and guides below:
   * [Server Details](/docs/server-details.md)
   * [Server Rules](/docs/server-rules.md)
   * [Shopping District](/docs/shopping-district.md)
+  * [Special Worlds](/docs/special-worlds.md)
   * [Staff](/docs/staff.md)
   * [Plugins](/docs/plugins.md)
   * [Datapacks](/docs/datapacks.md)

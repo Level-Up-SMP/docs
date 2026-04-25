@@ -14,4 +14,4 @@
 
 ## ModPack
 
-**Download**: [Level Up SMP ModPack](/modpacks/Level-Up-SMP-1.1.zip)
+**Download**: [Level Up SMP ModPack](https://github.com/Level-Up-SMP/docs/raw/refs/heads/main/modpacks/Level-Up-SMP-1.1.zip)
