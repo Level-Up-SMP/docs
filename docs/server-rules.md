@@ -48,6 +48,24 @@ Play in a way that makes the server better for other people, not just more conve
 
 ---
 
+## Content Creation
+
+Some members of the community stream, record, and create content on the server. That is welcomed and encouraged, but it comes with expectations for everyone else.
+
+## 11. Give content creators room to work
+
+If someone is streaming or recording, respect their space. Do not crowd their area, wander into their shots, or linger nearby uninvited.
+
+## 12. Do not insert yourself into someone's content without permission
+
+Being on the same server does not mean you are part of someone's stream or video. If you'd like to be involved, ask first.
+
+## 13. Use the status indicator as your signal
+
+Players who are actively streaming or recording will typically have their status set accordingly. Treat an active streaming or recording status the same as a do not disturb sign unless you have already been invited.
+
+---
+
 ## In Short
 
 Be the kind of player people are happy to share a world with.
