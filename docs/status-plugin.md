@@ -4,14 +4,14 @@ Level Up SMP employs a status plugin called StatusX that is written and maintain
 
 ## Commands
 
-| Command | Description |
-| ------- | ----------- |
-| `/status clear` | Clear your status |
-| `/status help` | View the help menu |
+| Command                                   | Description                               |
+| ----------------------------------------- | ----------------------------------------- |
+| `/status clear`                           | Clear your status                         |
+| `/status help`                            | View the help menu                        |
 | `/status list [availabilities\|statuses]` | Get a list of statuses and availabilities |
-| `/status nosleep` | Toggle the no-sleep prompt |
-| `/status set <status> <availability>` | Set your status |
-| `/status view <username>` | View another player's status |
+| `/status nosleep`                         | Toggle the no-sleep prompt                |
+| `/status set <status> <availability>`     | Set your status                           |
+| `/status view <username>`                 | View another player's status              |
 
 ## Status Indicator
 
@@ -19,23 +19,23 @@ The status indicator is a small box next to a player's name made up of two halve
 
 ### Statuses
 
-| Color | Status | Description |
-| ----- | ------ | ----------- |
-| Grey | None | No status set |
-| Red | Busy | Busy with something else |
+| Color  | Status       | Description                                           |
+| ------ | ------------ | ----------------------------------------------------- |
+| Grey   | None         | No status set                                         |
+| Red    | Busy         | Busy with something else                              |
 | Yellow | Multitasking | Splitting attention between the game and other things |
-| Purple | Streaming | Currently streaming content |
-| Pink | Recording | Currently recording content |
-| Green | Playing | Just playing the game |
+| Purple | Streaming    | Currently streaming content                           |
+| Pink   | Recording    | Currently recording content                           |
+| Green  | Playing      | Just playing the game                                 |
 
 ### Availabilities
 
-| Color | Availability | Description |
-| ----- | ------------ | ----------- |
-| Grey | None | No availability set |
-| Green | Open | Open to collaboration |
-| Yellow | Ask First | Ask this player first |
-| Red | Do Not Disturb | Does not want to be disturbed |
+| Color  | Availability   | Description                   |
+| ------ | -------------- | ----------------------------- |
+| Grey   | None           | No availability set           |
+| Green  | Open           | Open to collaboration         |
+| Yellow | Ask First      | Ask this player first         |
+| Red    | Do Not Disturb | Does not want to be disturbed |
 
 ## No Sleep
 

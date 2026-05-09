@@ -2,9 +2,13 @@
 
 All special worlds are accessed via dedicated portals. As of writing, these portals are only located inside of the nether hub.
 
+---
+
 ## Admin World
 
 In the interest of full disclosure, there is an admin-only world used for testing and other administrative purposes.
+
+---
 
 ## Creative World
 
@@ -19,6 +23,8 @@ While we can't commit to _never_ resetting the creative world, it's our intentio
 3. Clean up after yourself. If it was just a basic test or experiment that you no longer need, tear it down after.
 4. Don't touch other people's stuff. If it's causing you an issue, open a support ticket in the Discord.
 5. Don't break the server/world. If you do, your permissions may be permanently revoked.
+
+---
 
 ## Resource World
 
