@@ -27,6 +27,7 @@ As a Supporter, you'll get:
 * The `/tpr` random-teleport command _(once per hour)_
 * Access to the `/beezooka` and `/kittycannon` commands
 * Live skin changes and updates via [SkinsRestorer](https://modrinth.com/plugin/skinsrestorer) (`/skin set <name|url>`, `/skin update`)
+* Customizable particle trails via [PlayerParticles](player-particles.md) (`/pp gui`)
 
 ### Crafting Station Commands
 
