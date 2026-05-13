@@ -32,6 +32,9 @@ The resource world exists solely to harvest resources from. It runs on a separat
 
 The world may be reset or reseeded from time to time depending on community need. This means that anything you leave in this world **WILL** be lost if you don't remove it. Advanced notice will be given prior to reset.
 
+> [!CAUTION]
+> By its nature, the resource world is the most accident-prone world on the server. Open holes, exposed lava, and disturbed terrain come with the territory. The rules below ask players not to _leave_ hazards behind, but they don't promise a tidy or safe environment,  if anything, this is the _least_ safe place to mine. Bring backup gear, leave irreplaceables at home, and watch your step.
+
 ### Resource World Rules
 
 1. This world is for harvesting only. Do not build permanent structures.
